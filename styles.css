@@ -1,0 +1,11 @@
+body{
+  padding: 25px;
+}
+.title, h2 {
+	color: red;
+  font-size: 60px;
+}
+img{
+  width: 400px;
+
+}
